@@ -1,6 +1,7 @@
 # vue-cryptoruby
 
 > A Vue.js project
+
 This is a Vue.js CryptoCurrency App that Display Bitcoin Exchange Data the cryptocompare API.
 The application gathers data based on the current USD cryptocurrency value.
 cryptocompare 
